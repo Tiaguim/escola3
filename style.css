@@ -1,0 +1,38 @@
+#video{
+    width:450px;
+    height: 950px;
+    border: none;
+}
+
+.travel_mainDiv
+{
+  border: 1px solid lightgray;
+}
+
+.travel_mainDiv img
+{
+   width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+  margin: 20px;
+}
+
+.filme_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme_head i
+{
+  float: right;
+}
+
+.conquistas_text_span
+{
+  color: orange;
+}
